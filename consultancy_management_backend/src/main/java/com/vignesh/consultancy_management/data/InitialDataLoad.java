@@ -17,6 +17,7 @@ public class InitialDataLoad
             capabilityRepository.save(new Capability("ReactJS",70,20));
             capabilityRepository.save(new Capability("Python", 200, 100));
         };
+
     }
 }
 
